@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+
+
+
+/*.sticky {
+   
+    position: sticky; 
+    top: 0;
+    
+}*/
+
+.link:hover {
+    text-decoration: none;
+}
+
+::placeholder {
+    font-size: 16px;
+   padding-left: 20px;
+  color: gray;
+  background-image: url(search-solid.svg);
+  background-repeat: no-repeat;
+  background-size: 4%;
+}
+
+.main ::placeholder {
+    font-size: 16px;
+    padding-left: 20px;
+   color: gray;
+   background-image: url(search-solid.svg);
+   background-repeat: no-repeat;
+   background-size: 4%;
+
+}

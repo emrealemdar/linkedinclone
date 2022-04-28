@@ -1,0 +1,32 @@
+body {
+    font-family: 'PT Serif', serif;
+}
+
+
+
+.bgyellow {
+    background-color: #FFC017 ;
+}
+
+.border-dark {
+    border-bottom: 1px solid #414141;
+}
+
+.image {
+    width: 300px;
+    height: 300px;
+    float: right;
+}
+.clear {
+    clear: both;
+}
+
+.aside-buttons>li {
+    margin-bottom: 10px;
+}
+
+.sticky {
+    position: -webkit-sticky; 
+  position: sticky;
+  top: 0;
+}
